@@ -24,4 +24,7 @@ How to use sensor fingerprint ZA620_M5 with USB_TTL in SYNO Demo App
 
 ![SYDemo_aceJ2IyDZj](https://github.com/user-attachments/assets/14ab4591-ff75-4a62-8a15-37c60dc59b6a)
 
+python library for ZA620_M5 work in windows
+https://pypi.org/project/adafruit-fingerprint/
+
 
